@@ -1,0 +1,8 @@
+title: "Proyecto SOBUSA — Ruta Silencio"
+author: "Equipo del proyecto"
+language: es
+
+execute:
+  execute_notebooks: "off"
+
+only_build_toc_files: true
