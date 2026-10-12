@@ -1,2 +1,8 @@
 format: jb-book
-root: sobusa
+root: intro
+
+chapters:
+  - file: sobusa
+    title: "Ruta 2"
+  - file: ruta16
+    title: "Ruta 16"
