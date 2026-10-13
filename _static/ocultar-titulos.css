@@ -1,0 +1,11 @@
+/* Oculta los títulos de navegación dentro de las cuatro páginas. */
+.bd-article section#presentacion > h1,
+.bd-article section#ruta-2 > h1,
+.bd-article section#ruta-16 > h1,
+.bd-article section#ruta-21 > h1 {
+    display: none;
+}
+
+.bd-article section#ingenieria-de-características > h1 {
+    display: none;
+}
